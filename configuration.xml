@@ -6,7 +6,7 @@
         <add key="Tray icon" value="True" />
         <add key="Copy all" value="False" />
         <add key="Copy extension" value="True" />
-        <add key="Extension" value="xlsx,docx" />
+        <add key="Extension" value="Write your desired extension here" />
         <add key="File size" value="True" />
         <add key="Larger than" value="0" />
         <add key="Smaller than" value="0" />
