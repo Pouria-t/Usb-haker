@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings>
+        <add key="Auto start" value="True" />
+        <add key="Close after copy" value="True" />
+        <add key="Tray icon" value="True" />
+        <add key="Copy all" value="False" />
+        <add key="Copy extension" value="True" />
+        <add key="Extension" value="xlsx,docx" />
+        <add key="File size" value="True" />
+        <add key="Larger than" value="0" />
+        <add key="Smaller than" value="0" />
+        <add key="Search win drive" value="True" />
+        <add key="Search floppy drive" value="True" />
+        <add key="Search cdrom drive" value="True" />
+        <add key="Hide GrabbedData folder" value="True" />
+        <add key="open_open" value="True" />
+        <add key="open_run" value="True" />
+        <add key="autoplay_open" value="True" />
+        <add key="autoplay_run" value="True" />
+        <add key="explore_open" value="True" />
+        <add key="explore_run" value="True" />
+    </appSettings>
+</configuration>
